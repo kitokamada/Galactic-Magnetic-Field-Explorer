@@ -8,8 +8,8 @@ Author: K.K.Liao
 
 ( arxiv.2303.15562 -- simulating the evolution of the helicity of relic neutrinos as they propagate to Earth through a realistic model of the Galactic magnetic field )
 
---- The script provides Python script to study the JF-12 Magnetic Field numerical model.
-Specifically the magnetic Field magnitude perpendicular to the Line of Sight (LOS) $B_{\perp}$ over the sky in discrete pixels for astrophysics research.
+--- The script provides Python script to study the JF-12 Magnetic Field numerical model for astrophysics research.
+
 
 Potentional Use: (1) Cosmic Ray Propogation while interacting with GMF
                  (2) arxiv.2303.15562 , studying Dirac $\nu$'s helicity evolution in GMF
