@@ -18,8 +18,12 @@ Potentional Use: (1) Cosmic Ray Propogation while interacting with GMF
 Required Package: 
 Numpy, Healpy, matplotlib.pyplot, pandas
 
-eg. Results of JF-12 galactic magnetic field $B_{\perp}$ perpendicular to LOS at $N_{side}$=32 , $N_{Pixel}$=12288 over Healpy Mollview Sky Plot:
+eg1. Results of JF-12 galactic magnetic field $B_{\perp}$ perpendicular to LOS at $N_{side}$=32 , $N_{Pixel}$=12288 over Healpy Mollview Sky Plot:
+
 ![Alt text](https://github.com/kitokamada/Galactic-Magnetic-Field-Explorer/blob/main/results/BperpMollview.png)
 
+
+eg2. Results of JF-12 galactic magnetic field $B_{\perp}$ perpendicular to LOS at $N_{side}$=32 , $N_{Pixel}$=12288 over 
 Healpy ProjectView Sky Plot:
+
 ![Alt text](https://github.com/kitokamada/Galactic-Magnetic-Field-Explorer/blob/main/results/BperpProjectview.png)
