@@ -17,5 +17,6 @@ Numpy, Healpy, matplotlib.pyplot, pandas
 
 
 
-![Alt text]()
+Results of JF-12 galactic magnetic field $B_{\perp}$
+![Alt text](https://github.com/kitokamada/Galactic-Magnetic-Field-Explorer/results/BperpMollview.png)
 
